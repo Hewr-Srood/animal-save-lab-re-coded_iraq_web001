@@ -9,4 +9,12 @@ html {
 }
 
 /* Write your solution here */
-
+@media screen and (max-width:1300px) {
+  #ostrich{top:-15%;}
+}
+@media screen and (max-width:990px) {
+  #ostrich{
+    top:-10px;
+    left: 0;
+  }
+}
